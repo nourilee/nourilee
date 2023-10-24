@@ -2,7 +2,7 @@
 
 # I'm Nourilee 🚀
 
-I'm a passionate QA Automation Engineer from the Philipipnes. I have a strong coding background and a knack for optimizing software quality through automation. My mission is to make testing more efficient and enjoyable.
+I'm a passionate QA Automation Engineer from the Philippines. I have a strong coding background and a knack for optimizing software quality through automation. My mission is to make testing more efficient and enjoyable.
 
 ## 🔧 My Tech Stack
 
