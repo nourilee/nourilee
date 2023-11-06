@@ -25,9 +25,10 @@ I'm a passionate QA Automation Engineer from the Philippines. I have a strong co
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- [LinkedIn](https://www.linkedin.com/in/nourileesantos/)
 - [Personal GitHub](https://github.com/santosn-qa)
 - [Personal Project](https://nourilee.github.io/qa-handbook)
+- [Personal Site](https://nourilee.github.io/about-me)
 
 Feel free to explore my GitHub repositories and connect with me on LinkedIn to discuss all things automation, QA, and technology. Let's collaborate and optimize software quality together! 🤖
 
